@@ -48,8 +48,7 @@ Data managed securely via MySQL.<br>
 ![image](https://github.com/user-attachments/assets/c9d299d1-b710-44f3-9209-8ba988275560)
 
 
-# STUDENT MANAGEMENT SYSTEM :
-![image](https://github.com/user-attachments/assets/34c2dc57-e267-4a73-b21d-5defedd1c5ba)
+
 
 
 
