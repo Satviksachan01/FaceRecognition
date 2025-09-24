@@ -56,8 +56,6 @@ Data managed securely via MySQL.<br>
 ![image](https://github.com/user-attachments/assets/9b2600eb-6295-4d96-b302-506d6da3f557)
 
 
-# ATTENDANCE MANAGEMENT SYSTEM :
-![image](https://github.com/user-attachments/assets/aad57d53-e872-4237-b54f-3d27dab9dca3)
 
 
 # HELP DESK :
