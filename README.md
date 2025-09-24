@@ -69,13 +69,6 @@ Data managed securely via MySQL.<br>
 ![image](https://github.com/user-attachments/assets/2db8ee38-ea9f-48f5-965f-6c2295d796ce)
 
 
-# GALLERY :
-![image](https://github.com/user-attachments/assets/48a95641-257f-4174-b3a5-485557c9580c)
-
-
-# DEVELOPER SITE :
-![image](https://github.com/user-attachments/assets/4cb72c1f-2432-4c1b-96cf-a19d2488cf68)
-
 # EXIT : 
 ![image](https://github.com/user-attachments/assets/5dd06177-8eff-47aa-beed-1274937b0b08)
 
